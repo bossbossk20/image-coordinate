@@ -1,0 +1,1 @@
+#  image coordinate for usemap 
